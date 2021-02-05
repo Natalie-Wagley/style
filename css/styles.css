@@ -1,0 +1,148 @@
+body {
+    
+    margin-bottom: 70px;
+}
+
+
+p {
+    font-size: 16px;
+    text-align: left;
+    
+    font-family: "veranda", sans-serif;
+    font-weight: lighter;
+}
+
+
+
+.main-heading {
+    background-color: #BFCA8B;
+    color: #FFFFFF;
+    
+    
+    
+    padding-left: 100px;
+    padding-top: 120px;
+    padding-bottom: 10px;
+    font-family: "garamond", serif; 
+    font-size: 12px;
+    font-style: italic;
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+h3 {
+    padding-top: 20px;
+    
+    font-size: 20px;   
+    font-family: "garamond", serif;
+    
+    
+    
+}
+
+
+
+.hobbies-list {
+    
+    font-family: "veranda", sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    padding-bottom: 20px;
+    
+    
+}
+
+
+.intro {
+    
+    
+    margin-top: 60px;
+    
+    margin-left: 450px;
+    
+    max-width: 560px;
+    min-width: 560px;
+    
+    
+}
+
+
+
+.aala-img {
+    height: 300px;
+   
+    
+    margin-left: 210px;
+    margin-right: 40px;
+    
+    float: left;
+    
+   
+     
+   
+    margin-top: 60px;
+    margin-bottom: 30px;
+    
+    
+   
+   
+    
+}
+
+
+
+.background-design{
+   
+   
+    
+        
+    margin-left: 450px;
+    
+    margin-bottom: 40px; 
+   
+    max-width: 560px;
+    min-width: 550px;
+    
+
+}
+
+
+.activity-table,td,th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+    text-align: left;
+    font-family: "veranda", sans-serif;
+    font-weight: lighter;
+}
+
+
+.table-head {
+    background-color: #6D8A85;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.table-season-activity {
+    background-color: #dcdcdc;
+    font-weight: bold;
+}
+
+
+
+.bottom {
+    background-color: #dcdcdc;
+    padding: 20px;
+    color: #000000;
+    text-decoration: none;
+    font-family: "veranda", sans-serif;
+    
+    
+}
